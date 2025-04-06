@@ -19,11 +19,24 @@ This repository includes:
 - Build self-discipline through daily practice & documentation
 
 ---
+## 🗂️ Repository Structure
+
+```bash
+DSA-MyGuide/
+│
+├── Concepts/            # DSA concepts with theory & code examples
+├── Patterns/            # Pattern-based problems
+├── TopicWise-Problems/  # Problems sorted by topic and difficulty
+├── Daily-Practice/      # Logs of daily questions solved
+├── Leetcode/            # (Optional) Leetcode curated list
+└── Resources.md         # My favorite references, playlists, cheat-sheets
+```
 
 ## 🧠 DSA Roadmap
 
-- [x] Arrays & Strings  
-- [x] Linked Lists  
+- [x] Arrays & hashing
+- [ ] Strings
+- [ ] Linked Lists  
 - [ ] Stacks & Queues  
 - [ ] Sliding Window  
 - [ ] Recursion & Backtracking  
@@ -37,26 +50,4 @@ This repository includes:
 
 ---
 
-## 🧩 Problem-Solving Patterns
 
-| Pattern             | Status | Link                                      |
-|---------------------|--------|-------------------------------------------|
-| Sliding Window      | ✅     | [`/Patterns/SlidingWindow/`](./Patterns/SlidingWindow) |
-| Two Pointers        | ✅     | [`/Patterns/TwoPointers/`](./Patterns/TwoPointers)     |
-| Fast & Slow Pointers| 🔄     | Updating Soon                             |
-| Binary Search       | 🔄     | Updating Soon                             |
-| Backtracking        | ⏳     | Planned                                   |
-
----
-
-## 🗂️ Repository Structure
-
-```bash
-DSA-Journey/
-│
-├── Concepts/            # DSA concepts with theory & code examples
-├── Patterns/            # Pattern-based problems (Sliding Window, Two Pointers...)
-├── TopicWise-Problems/  # Problems sorted by topic and difficulty
-├── Daily-Practice/      # Logs of daily questions solved
-├── Leetcode-75/         # (Optional) Leetcode curated list
-└── Resources.md         # My favorite references, playlists, cheat-sheets
